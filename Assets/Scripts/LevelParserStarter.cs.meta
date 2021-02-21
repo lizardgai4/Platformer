@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9e6568559d6661b4eba05e67f1401a83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Rock: {instanceID: 0}
+  - Brick: {instanceID: 0}
+  - QuestionBox: {instanceID: 0}
+  - Stone: {instanceID: 0}
+  - parentTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
