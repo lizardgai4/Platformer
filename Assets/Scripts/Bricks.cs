@@ -8,7 +8,7 @@ public class Bricks : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetMouseButtonDown(0)) {
+        /*if (Input.GetMouseButtonDown(0)) {
             var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
             if (Physics.Raycast(ray, out hit))
@@ -21,6 +21,8 @@ public class Bricks : MonoBehaviour
                     Destroy(selectionRenderer);
                 }
             }
-        }
+        }*/
     }
+
+    
 }

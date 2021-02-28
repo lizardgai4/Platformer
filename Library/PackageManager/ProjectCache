@@ -1,7 +1,7 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
     m_FilePath: C:/Users/lizar/Documents/CSUMB files/Spring 2021/CST 326 (Game Design)/Level
-      parser/Packages/manifest.json
+      parser/Platformer/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -10,12 +10,12 @@ m_ProjectFiles:
     m_Hash: 215445755
   m_LockFileStatus:
     m_FilePath: C:/Users/lizar/Documents/CSUMB files/Spring 2021/CST 326 (Game Design)/Level
-      parser/Packages/packages-lock.json
+      parser/Platformer/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637492999365298083
+      ticks: 637497297117028504
     m_Hash: 2739831012
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -28,7 +28,7 @@ m_PackageAssets:
       version: 1.3.9
       source: 1
       resolvedPath: C:\Users\lizar\Documents\CSUMB files\Spring 2021\CST 326 (Game
-        Design)\Level parser\Library\PackageCache\com.unity.collab-proxy@1.3.9
+        Design)\Level parser\Platformer\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -124,7 +124,7 @@ m_PackageAssets:
       version: 2.0.7
       source: 1
       resolvedPath: C:\Users\lizar\Documents\CSUMB files\Spring 2021\CST 326 (Game
-        Design)\Level parser\Library\PackageCache\com.unity.ide.rider@2.0.7
+        Design)\Level parser\Platformer\Library\PackageCache\com.unity.ide.rider@2.0.7
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -226,7 +226,7 @@ m_PackageAssets:
       version: 2.0.5
       source: 1
       resolvedPath: C:\Users\lizar\Documents\CSUMB files\Spring 2021\CST 326 (Game
-        Design)\Level parser\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
+        Design)\Level parser\Platformer\Library\PackageCache\com.unity.ide.visualstudio@2.0.5
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -298,7 +298,7 @@ m_PackageAssets:
       version: 1.2.3
       source: 1
       resolvedPath: C:\Users\lizar\Documents\CSUMB files\Spring 2021\CST 326 (Game
-        Design)\Level parser\Library\PackageCache\com.unity.ide.vscode@1.2.3
+        Design)\Level parser\Platformer\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -368,7 +368,7 @@ m_PackageAssets:
       version: 1.1.20
       source: 1
       resolvedPath: C:\Users\lizar\Documents\CSUMB files\Spring 2021\CST 326 (Game
-        Design)\Level parser\Library\PackageCache\com.unity.test-framework@1.1.20
+        Design)\Level parser\Platformer\Library\PackageCache\com.unity.test-framework@1.1.20
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -457,7 +457,7 @@ m_PackageAssets:
       version: 3.0.1
       source: 1
       resolvedPath: C:\Users\lizar\Documents\CSUMB files\Spring 2021\CST 326 (Game
-        Design)\Level parser\Library\PackageCache\com.unity.textmeshpro@3.0.1
+        Design)\Level parser\Platformer\Library\PackageCache\com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -527,6 +527,7 @@ m_PackageAssets:
         - 1.5.0
         - 1.5.1
         - 1.5.3
+        - 1.5.4
         - 2.0.0
         - 2.0.1-preview.1
         - 2.0.1
@@ -545,6 +546,7 @@ m_PackageAssets:
         - 2.1.0
         - 2.1.1
         - 2.1.3
+        - 2.1.4
         - 3.0.0-preview.1
         - 3.0.0-preview.3
         - 3.0.0-preview.4
@@ -559,10 +561,12 @@ m_PackageAssets:
         - 3.0.0
         - 3.0.1
         - 3.0.3
+        - 3.0.4
         compatible:
         - 3.0.1
         - 3.0.3
-        verified: 3.0.3
+        - 3.0.4
+        verified: 3.0.4
       dependencies:
       - name: com.unity.ugui
         version: 1.0.0
@@ -605,7 +609,7 @@ m_PackageAssets:
       version: 1.4.5
       source: 1
       resolvedPath: C:\Users\lizar\Documents\CSUMB files\Spring 2021\CST 326 (Game
-        Design)\Level parser\Library\PackageCache\com.unity.timeline@1.4.5
+        Design)\Level parser\Platformer\Library\PackageCache\com.unity.timeline@1.4.5
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -2582,7 +2586,7 @@ m_PackageAssets:
       version: 1.0.6
       source: 1
       resolvedPath: C:\Users\lizar\Documents\CSUMB files\Spring 2021\CST 326 (Game
-        Design)\Level parser\Library\PackageCache\com.unity.ext.nunit@1.0.6
+        Design)\Level parser\Platformer\Library\PackageCache\com.unity.ext.nunit@1.0.6
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2641,5 +2645,5 @@ m_PackageAssets:
   m_LocalPackages:
     m_LocalFileStatus: []
 m_ProjectPath: C:/Users/lizar/Documents/CSUMB files/Spring 2021/CST 326 (Game Design)/Level
-  parser/Packages
+  parser/Platformer/Packages
 m_EditorVersion: 2020.2.2f1 (068178b99f32)

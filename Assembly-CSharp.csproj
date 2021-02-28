@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{AC321CD2-9968-E7D0-8B86-FD5C615ABBE1}</ProjectGuid>
+    <ProjectGuid>{100AE41E-9853-00A1-0814-C759729749EB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,11 +53,16 @@
     <UnityVersion>2020.2.2f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
+    <Compile Include="Assets\Scripts\CameraMirror.cs" />
     <Compile Include="Assets\Scripts\LevelParserStarter.cs" />
+    <Compile Include="Assets\Scripts\EthanCharacter.cs" />
     <Compile Include="Assets\Scripts\UIScript.cs" />
     <Compile Include="Assets\Scripts\Bricks.cs" />
+    <Compile Include="Assets\Scripts\CharacterAnimation.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets\Resources\FourDashTwo.txt" />
      <None Include="Assets\Resources\Test.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
